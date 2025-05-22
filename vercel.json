@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://www.simuladorcasaprogramada.com.br",
+        "destination": "https://servidor-production-a37a.up.railway.app",
         "permanent": true
       }
     ]
